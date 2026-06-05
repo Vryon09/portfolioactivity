@@ -11,7 +11,7 @@ A modern, responsive portfolio website built to showcase my profile, projects, s
 - **Icons:** Lucide React & React Icons
 - **Components:** Radix UI & Shadcn/UI
 
-## Screenshots
+## Screenshot
 
 ![Portfolio](public/portfolio.png)
 
