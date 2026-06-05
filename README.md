@@ -14,7 +14,7 @@ A modern, responsive portfolio website built to showcase my profile, projects, s
 
 ## Screenshots
 
-![Portfolio Placeholder](https://via.placeholder.com/800x450?text=Portfolio+Screenshot+Placeholder)
+![Portfolio](public/portfolio.png)
 
 ## Live Website
 
