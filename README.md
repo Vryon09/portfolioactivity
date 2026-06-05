@@ -10,7 +10,6 @@ A modern, responsive portfolio website built to showcase my profile, projects, s
 - **Styling:** Tailwind CSS
 - **Icons:** Lucide React & React Icons
 - **Components:** Radix UI & Shadcn/UI
-- **Animations:** Tw-Animate-CSS
 
 ## Screenshots
 
@@ -18,4 +17,4 @@ A modern, responsive portfolio website built to showcase my profile, projects, s
 
 ## Live Website
 
-[View Live Project](https://example.com) (Placeholder link)
+[View Live Project](https://vryonportfolioactivity.netlify.app/)
