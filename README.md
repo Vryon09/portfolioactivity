@@ -19,17 +19,3 @@ A modern, responsive portfolio website built to showcase my profile, projects, s
 ## Live Website
 
 [View Live Project](https://example.com) (Placeholder link)
-
-## Getting Started
-
-To run this project locally:
-
-1. Clone the repository
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the development server:
-   ```bash
-   npm run dev
-   ```
